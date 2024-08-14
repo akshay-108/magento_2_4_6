@@ -1,0 +1,18 @@
+----- git file mode false -----
+git config core.fileMode false
+
+
+----- github -----
+user : akshay-108
+pass : Akshay@147852369
+access token : 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
+
+
+----- auth.json -----
+public key : 1abe8b01016b0b0a33b60a1dbabd203c
+private key : 8d929dd1fafa0240ee0e334d2f659cf7
+
+
+----- mysql -----
+user : akshay
+pass : akshay@123
