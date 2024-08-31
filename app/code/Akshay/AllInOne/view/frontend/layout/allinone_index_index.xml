@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" layout="1column" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
+    <referenceContainer name="content">
+        <block class="Akshay\AllInOne\Block\Display" name="allinone_display" template="Akshay_AllInOne::sayhello.phtml" />
+        <block class="Akshay\AllInOne\Block\StoreData" name="allinone_storedata" template="Akshay_AllInOne::storeData.phtml" />
+        <block class="Akshay\AllInOne\Block\CurrentProductCategory" name="allinone_currentproductcategory" template="Akshay_AllInOne::currentproductcategory.phtml" />
+        <block class="Akshay\AllInOne\Block\CustomerGroup" name="allinone_customergroup" template="Akshay_AllInOne::customergroup.phtml" />
+        <block class="Akshay\AllInOne\Block\LogoInfo" name="allinone_logoinfo" template="Akshay_AllInOne::logoinfo.phtml" />
+    </referenceContainer>
+</page>
