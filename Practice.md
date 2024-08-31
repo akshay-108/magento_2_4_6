@@ -1,7 +1,6 @@
 ===== Magento practice modules =====
 
-https://www.mageplaza.com/devdocs/magento-2-how-to-add-command-line-console-cli.html
-
+https://www.mageplaza.com/devdocs/how-get-product-collection-magento-2.html
 
 ===== Imp Info =====
 
