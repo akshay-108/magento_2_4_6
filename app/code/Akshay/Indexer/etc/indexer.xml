@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Indexer/etc/indexer.xsd">
+    <indexer id="akshay_custom_indexer" view_id="akshay_custom_indexer" class="Akshay\Indexer\Model\Indexer\Test">
+        <title translate="true">Akshay Custom Indexer</title>
+        <description translate="true">Testing of custom indexer</description>
+    </indexer>
+</config>
